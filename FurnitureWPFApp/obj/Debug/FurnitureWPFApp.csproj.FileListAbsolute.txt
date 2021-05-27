@@ -1,0 +1,327 @@
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\FurnitureWPFApp.exe.config
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\FurnitureWPFApp.exe
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\FurnitureWPFApp.pdb
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\Google.Protobuf.dll
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\Renci.SshNet.dll
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\MySql.Data.xml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csprojAssemblyReference.cache
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\MainWindow.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\App.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp_MarkupCompile.cache
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp_MarkupCompile.lref
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\MainWindow.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.g.resources
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.Properties.Resources.resources
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csproj.GenerateResource.cache
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csproj.CoreCompileInputs.cache
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csproj.CopyComplete
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.exe
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.pdb
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csprojAssemblyReference.cache
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\MainWindow.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\App.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp_MarkupCompile.cache
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp_MarkupCompile.lref
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.exe
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.pdb
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\FurnitureWPFApp.exe.config
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\FurnitureWPFApp.exe
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\FurnitureWPFApp.pdb
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\Google.Protobuf.dll
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\BouncyCastle.Crypto.dll
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\Ubiety.Dns.Core.dll
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\Renci.SshNet.dll
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\MySql.Data.xml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\MainWindow.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.g.resources
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.Properties.Resources.resources
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csproj.GenerateResource.cache
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csproj.CoreCompileInputs.cache
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csproj.CopyComplete
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\RegistrationForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\RegistrationForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\RegistrationForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\RegistrationForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserTable.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserTable.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserProfile.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserProfile.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorTable.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorTable.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerTable.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterTable.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorTable.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorTable.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerTable.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterTable.baml
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\FurnitureWPFApp.exe.config
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\FurnitureWPFApp.exe
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\FurnitureWPFApp.pdb
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\MySql.Data.dll
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\Google.Protobuf.dll
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\Renci.SshNet.dll
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\MySql.Data.xml
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csprojAssemblyReference.cache
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\MainWindow.g.cs
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorForm.g.cs
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorTable.g.cs
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorForm.g.cs
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorTable.g.cs
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerForm.g.cs
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerTable.g.cs
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterForm.g.cs
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterTable.g.cs
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\RegistrationForm.g.cs
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserForm.g.cs
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserProfile.g.cs
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserTable.g.cs
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\App.g.cs
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp_MarkupCompile.cache
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp_MarkupCompile.lref
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\MainWindow.baml
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorForm.baml
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorTable.baml
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorForm.baml
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorTable.baml
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerForm.baml
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerTable.baml
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterForm.baml
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterTable.baml
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\RegistrationForm.baml
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserForm.baml
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserProfile.baml
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserTable.baml
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.g.resources
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.Properties.Resources.resources
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csproj.GenerateResource.cache
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csproj.CoreCompileInputs.cache
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csproj.CopyComplete
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.exe
+C:\wpf\FurnitureWPFApp\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.pdb
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\EquipmentAddForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\EquipmentTypeAddForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\FurnitureAddForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\MaterialAddForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\OrderAddForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\ProductAddForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\EditFrom.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\EquipmentAddForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\EquipmentTypeAddForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\FurnitureAddForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\MaterialAddForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\OrderAddForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\ProductAddForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\EditFrom.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\AssemblyUnitSpecificationAddForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\MaterialSpecificationAddForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\OperationSpecificationAddForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\SpecificationFurnitureAddForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\SupplierAddForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\UserAddForm.g.cs
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\AssemblyUnitSpecificationAddForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\MaterialSpecificationAddForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\OperationSpecificationAddForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\SpecificationFurnitureAddForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\SupplierAddForm.baml
+E:\mmtr\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\UserAddForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\FurnitureWPFApp.exe.config
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\FurnitureWPFApp.exe
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\FurnitureWPFApp.pdb
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\MySql.Data.dll
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\Google.Protobuf.dll
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\Renci.SshNet.dll
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\MySql.Data.xml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csprojAssemblyReference.cache
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\MainWindow.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\AssemblyUnitSpecificationAddForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\EquipmentAddForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\EquipmentTypeAddForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\FurnitureAddForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\MaterialAddForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\MaterialSpecificationAddForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\OperationSpecificationAddForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\OrderAddForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\ProductAddForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\SpecificationFurnitureAddForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\SupplierAddForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\UserAddForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorTable.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorTable.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\EditFrom.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerTable.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterTable.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\RegistrationForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserForm.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserProfile.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserTable.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\App.g.cs
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp_MarkupCompile.cache
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp_MarkupCompile.lref
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\MainWindow.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\AssemblyUnitSpecificationAddForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\EquipmentAddForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\EquipmentTypeAddForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\FurnitureAddForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\MaterialAddForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\MaterialSpecificationAddForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\OperationSpecificationAddForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\OrderAddForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\ProductAddForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\SpecificationFurnitureAddForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\SupplierAddForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\UserAddForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorTable.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorTable.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\EditFrom.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerTable.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterTable.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\RegistrationForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserForm.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserProfile.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserTable.baml
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.g.resources
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.Properties.Resources.resources
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csproj.GenerateResource.cache
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csproj.CoreCompileInputs.cache
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csproj.CopyComplete
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.exe
+C:\wpf\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.pdb
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\AssemblyUnitSpecificationAddForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\EquipmentAddForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\EquipmentTypeAddForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\FurnitureAddForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\MaterialAddForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\MaterialSpecificationAddForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\OperationSpecificationAddForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\OrderAddForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\ProductAddForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\SpecificationFurnitureAddForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\SupplierAddForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\UserAddForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorTable.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorTable.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\EditFrom.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerTable.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterTable.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserForm.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserTable.g.cs
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\AssemblyUnitSpecificationAddForm.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\EquipmentAddForm.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\EquipmentTypeAddForm.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\FurnitureAddForm.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\MaterialAddForm.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\MaterialSpecificationAddForm.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\OperationSpecificationAddForm.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\OrderAddForm.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\ProductAddForm.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\SpecificationFurnitureAddForm.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\SupplierAddForm.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\UserAddForm.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorForm.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorTable.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorForm.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorTable.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\EditFrom.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerForm.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerTable.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterForm.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterTable.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserForm.baml
+C:\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserTable.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\FurnitureWPFApp.exe.config
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\FurnitureWPFApp.exe
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\FurnitureWPFApp.pdb
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\Google.Protobuf.dll
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\Renci.SshNet.dll
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\bin\Debug\MySql.Data.xml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csprojAssemblyReference.cache
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\MainWindow.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\AssemblyUnitSpecificationAddForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\EquipmentAddForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\EquipmentTypeAddForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\FurnitureAddForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\MaterialAddForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\MaterialSpecificationAddForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\OperationSpecificationAddForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\OrderAddForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\ProductAddForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\SpecificationFurnitureAddForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\SupplierAddForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\UserAddForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorTable.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorTable.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\EditFrom.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerTable.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterTable.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\RegistrationForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserForm.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserTable.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\App.g.cs
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp_MarkupCompile.cache
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp_MarkupCompile.lref
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\MainWindow.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\AssemblyUnitSpecificationAddForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\EquipmentAddForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\EquipmentTypeAddForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\FurnitureAddForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\MaterialAddForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\MaterialSpecificationAddForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\OperationSpecificationAddForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\OrderAddForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\ProductAddForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\SpecificationFurnitureAddForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\SupplierAddForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Add\UserAddForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\DeputyDirector\DeputyDirectorTable.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Director\DirectorTable.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\EditFrom.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Manager\ManagerTable.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\Master\MasterTable.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\RegistrationForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserForm.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\View\User\UserTable.baml
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.g.resources
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.Properties.Resources.resources
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csproj.GenerateResource.cache
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.csproj.CopyComplete
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.exe
+C:\Users\vasya\Desktop\Новая папка\Технология разработки БД\FurnitureWPFApp\App\FurnitureWPFApp\FurnitureWPFApp\obj\Debug\FurnitureWPFApp.pdb

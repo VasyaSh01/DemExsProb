@@ -1,0 +1,15 @@
+﻿<Window x:Class="FurnitureWPFApp.View.User.UserTable"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FurnitureWPFApp.View.User"
+        mc:Ignorable="d"
+        Title="UserTable" Height="470" Width="800">
+    <Grid>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Height="286" Margin="100,27,0,0" VerticalAlignment="Top" Width="600"/>
+        <Button x:Name="BackBT" Content="Назад" HorizontalAlignment="Left" Margin="30,392,0,0" VerticalAlignment="Top" Width="92" Height="30" Click="BackBT_Click"/>
+        <Button x:Name="RefreshBT" Content="Обновить" HorizontalAlignment="Left" Margin="336,349,0,0" VerticalAlignment="Top" Width="120" Height="39" Click="RefreshBT_Click"/>
+        <Label Content="Список продуктов" HorizontalAlignment="Left" Margin="336,1,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

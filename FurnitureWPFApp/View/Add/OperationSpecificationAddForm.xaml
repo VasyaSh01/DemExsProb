@@ -1,0 +1,23 @@
+﻿<Window x:Class="FurnitureWPFApp.View.Add.OperationSpecificationAddForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FurnitureWPFApp.View.Add"
+        mc:Ignorable="d"
+        Title="OperationSpecificationAddForm" Height="480" Width="800">
+    <Grid>
+        <ComboBox x:Name="ProductCB" HorizontalAlignment="Left" Margin="305,47,0,0" VerticalAlignment="Top" Width="190" Height="35" RenderTransformOrigin="-0.725,0.888"/>
+        <TextBox x:Name="OperationTB" HorizontalAlignment="Left" Height="35" Margin="305,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" RenderTransformOrigin="0.533,-1.246"/>
+        <TextBox x:Name="SerialNumberTB" HorizontalAlignment="Left" Height="35" Margin="305,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" RenderTransformOrigin="0.533,-1.246" PreviewTextInput="Int_PreviewTextInput"/>
+        <TextBox x:Name="EquipmentTypeTB" HorizontalAlignment="Left" Height="35" Margin="305,228,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" RenderTransformOrigin="0.533,-1.246"/>
+        <TextBox x:Name="OperationTimeTB" HorizontalAlignment="Left" Height="35" Margin="305,287,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" RenderTransformOrigin="0.533,-1.246"/>
+        <Label Content="Product" HorizontalAlignment="Left" Margin="197,56,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Operation" HorizontalAlignment="Left" Margin="197,121,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Serial Number" HorizontalAlignment="Left" Margin="197,179,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Equipment Type" HorizontalAlignment="Left" Margin="197,237,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Operation Time" HorizontalAlignment="Left" Margin="197,296,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="AddBT" Content="Добавить" HorizontalAlignment="Left" Margin="300,353,0,0" VerticalAlignment="Top" Width="200" Height="40" Click="AddBT_Click"/>
+        <Button x:Name="BackBT" Content="Назад" HorizontalAlignment="Left" Margin="23,399,0,0" VerticalAlignment="Top" Width="150" Height="30" Click="BackBT_Click"/>
+    </Grid>
+</Window>

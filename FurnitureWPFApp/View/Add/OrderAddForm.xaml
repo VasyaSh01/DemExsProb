@@ -1,0 +1,32 @@
+﻿<Window x:Class="FurnitureWPFApp.View.Add.OrderAddForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FurnitureWPFApp.View.Add"
+        mc:Ignorable="d"
+        Title="OrderAddForm" Height="1000" Width="800">
+    <Grid>
+        <TextBox x:Name="NumberTB" HorizontalAlignment="Left" Height="35" Margin="305,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" PreviewTextInput="Int_PreviewTextInput"/>
+        <TextBox x:Name="OrderNameTB" HorizontalAlignment="Left" Height="35" Margin="305,266,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <ComboBox x:Name="ProductCB" HorizontalAlignment="Left" Margin="305,317,0,0" VerticalAlignment="Top" Width="190" Height="35"/>
+        <ComboBox x:Name="CustomerCB" HorizontalAlignment="Left" Margin="305,367,0,0" VerticalAlignment="Top" Width="190" Height="35"/>
+        <ComboBox x:Name="ResponsibleManagerCB" HorizontalAlignment="Left" Margin="305,419,0,0" VerticalAlignment="Top" Width="190" Height="35"/>
+        <TextBox x:Name="PriceTB" HorizontalAlignment="Left" Height="35" Margin="305,471,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" PreviewTextInput="Int_PreviewTextInput"/>
+        <Label Content="Number" HorizontalAlignment="Left" Margin="207,49,0,0" VerticalAlignment="Top" Width="80"/>
+        <Label Content="Date" HorizontalAlignment="Left" Margin="211,174,0,0" VerticalAlignment="Top" Width="80"/>
+        <Label Content="Order Name" HorizontalAlignment="Left" Margin="211,275,0,0" VerticalAlignment="Top" Width="80"/>
+        <Label Content="Product" HorizontalAlignment="Left" Margin="211,326,0,0" VerticalAlignment="Top" Width="80"/>
+        <Label Content="Customer" HorizontalAlignment="Left" Margin="211,376,0,0" VerticalAlignment="Top" Width="87"/>
+        <Label Content="Responsible Manager" HorizontalAlignment="Left" Margin="162,428,0,0" VerticalAlignment="Top" Width="137"/>
+        <Label Content="Price" HorizontalAlignment="Left" Margin="218,480,0,0" VerticalAlignment="Top" Width="59"/>
+        <Label Content="Planned date" HorizontalAlignment="Left" Margin="203,601,0,0" VerticalAlignment="Top" Width="84"/>
+        <Button x:Name="AddBT" Content="Добавить" HorizontalAlignment="Left" Margin="299,856,0,0" VerticalAlignment="Top" Width="200" Height="40" Click="AddBT_Click"/>
+        <Button x:Name="BackBT" Content="Назад" HorizontalAlignment="Left" Margin="30,902,0,0" VerticalAlignment="Top" Width="150" Height="30" Click="BackBT_Click"/>
+        <Image x:Name="SchemeImage" HorizontalAlignment="Left" Height="124" Margin="332,705,0,0" VerticalAlignment="Top" Width="143"/>
+        <Label Content="Scheme" HorizontalAlignment="Left" Margin="207,754,0,0" VerticalAlignment="Top" Width="59"/>
+        <Button x:Name="ImageBT" Content="Load Image" HorizontalAlignment="Left" Height="26" Margin="537,754,0,0" VerticalAlignment="Top" Width="174" Click="ImageBT_Click"/>
+        <Calendar x:Name="DateCalendar" HorizontalAlignment="Left" Margin="316,516,0,0" VerticalAlignment="Top" Width="170"/>
+        <Calendar x:Name="PlannedDateCalendar" HorizontalAlignment="Left" Margin="307,88,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

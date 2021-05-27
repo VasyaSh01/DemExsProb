@@ -1,0 +1,19 @@
+﻿<Window x:Class="FurnitureWPFApp.View.Add.SpecificationFurnitureAddForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FurnitureWPFApp.View.Add"
+        mc:Ignorable="d"
+        Title="SpecificationFurnitureAddForm" Height="400" Width="800">
+    <Grid>
+        <ComboBox x:Name="ProductCB" HorizontalAlignment="Left" Margin="305,47,0,0" VerticalAlignment="Top" Width="190" Height="35"/>
+        <ComboBox x:Name="FurnitureCB" HorizontalAlignment="Left" Margin="305,121,0,0" VerticalAlignment="Top" Width="190" Height="35"/>
+        <TextBox x:Name="QuantityTB" HorizontalAlignment="Left" Height="35" Margin="305,195,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" PreviewTextInput="Int_PreviewTextInput"/>
+        <Label Content="Product" HorizontalAlignment="Left" Margin="197,56,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Furniture" HorizontalAlignment="Left" Margin="197,130,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Quantity" HorizontalAlignment="Left" Margin="197,204,0,0" VerticalAlignment="Top" Width="80"/>
+        <Button x:Name="AddBT" Content="Добавить" HorizontalAlignment="Left" Margin="300,269,0,0" VerticalAlignment="Top" Width="200" Height="40" Click="AddBT_Click"/>
+        <Button x:Name="BackBT" Content="Назад" HorizontalAlignment="Left" Margin="24,315,0,0" VerticalAlignment="Top" Width="150" Height="30" Click="BackBT_Click"/>
+    </Grid>
+</Window>

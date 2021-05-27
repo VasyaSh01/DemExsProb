@@ -1,0 +1,17 @@
+﻿<Window x:Class="FurnitureWPFApp.View.Add.ProductAddForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FurnitureWPFApp.View.Add"
+        mc:Ignorable="d"
+        Title="ProductAddForm" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="NameTB" HorizontalAlignment="Left" Height="35" Margin="310,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="DimesionsTB" HorizontalAlignment="Left" Height="35" Margin="310,233,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="216,141,0,0" VerticalAlignment="Top" Width="64"/>
+        <Label Content="Dimensions" HorizontalAlignment="Left" Margin="216,242,0,0" VerticalAlignment="Top" Width="79"/>
+        <Button x:Name="AddBT" Content="Добавить" HorizontalAlignment="Left" Margin="300,335,0,0" VerticalAlignment="Top" Width="200" Height="40" Click="AddBT_Click"/>
+        <Button x:Name="BackBT" Content="Назад" HorizontalAlignment="Left" Margin="53,355,0,0" VerticalAlignment="Top" Width="150" Height="30" Click="BackBT_Click"/>
+    </Grid>
+</Window>

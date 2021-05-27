@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{778F9BC5-7BBE-40D6-959C-1B6AAE087D16}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FurnitureWPFApp</RootNamespace>
+    <AssemblyName>FurnitureWPFApp</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.19.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Classes\AssemblyUnitSpecification.cs" />
+    <Compile Include="Classes\Equipment.cs" />
+    <Compile Include="Classes\EquipmentType.cs" />
+    <Compile Include="Classes\Furniture.cs" />
+    <Compile Include="Classes\Material.cs" />
+    <Compile Include="Classes\MaterialSpecification.cs" />
+    <Compile Include="Classes\OperationSpecification.cs" />
+    <Compile Include="Classes\Order.cs" />
+    <Compile Include="Classes\Product.cs" />
+    <Compile Include="Classes\SpecificationFurniture.cs" />
+    <Compile Include="Classes\Supplier.cs" />
+    <Compile Include="Classes\User.cs" />
+    <Compile Include="View\Add\AssemblyUnitSpecificationAddForm.xaml.cs">
+      <DependentUpon>AssemblyUnitSpecificationAddForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add\EquipmentAddForm.xaml.cs">
+      <DependentUpon>EquipmentAddForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add\EquipmentTypeAddForm.xaml.cs">
+      <DependentUpon>EquipmentTypeAddForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add\FurnitureAddForm.xaml.cs">
+      <DependentUpon>FurnitureAddForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add\MaterialAddForm.xaml.cs">
+      <DependentUpon>MaterialAddForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add\MaterialSpecificationAddForm.xaml.cs">
+      <DependentUpon>MaterialSpecificationAddForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add\OperationSpecificationAddForm.xaml.cs">
+      <DependentUpon>OperationSpecificationAddForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add\OrderAddForm.xaml.cs">
+      <DependentUpon>OrderAddForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add\ProductAddForm.xaml.cs">
+      <DependentUpon>ProductAddForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add\SpecificationFurnitureAddForm.xaml.cs">
+      <DependentUpon>SpecificationFurnitureAddForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add\SupplierAddForm.xaml.cs">
+      <DependentUpon>SupplierAddForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add\UserAddForm.xaml.cs">
+      <DependentUpon>UserAddForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\DeputyDirector\DeputyDirectorForm.xaml.cs">
+      <DependentUpon>DeputyDirectorForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\DeputyDirector\DeputyDirectorTable.xaml.cs">
+      <DependentUpon>DeputyDirectorTable.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Director\DirectorForm.xaml.cs">
+      <DependentUpon>DirectorForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Director\DirectorTable.xaml.cs">
+      <DependentUpon>DirectorTable.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\EditFrom.xaml.cs">
+      <DependentUpon>EditFrom.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Manager\ManagerForm.xaml.cs">
+      <DependentUpon>ManagerForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Manager\ManagerTable.xaml.cs">
+      <DependentUpon>ManagerTable.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Master\MasterForm.xaml.cs">
+      <DependentUpon>MasterForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Master\MasterTable.xaml.cs">
+      <DependentUpon>MasterTable.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\RegistrationForm.xaml.cs">
+      <DependentUpon>RegistrationForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\User\UserForm.xaml.cs">
+      <DependentUpon>UserForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\User\UserTable.xaml.cs">
+      <DependentUpon>UserTable.xaml</DependentUpon>
+    </Compile>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Controller\DBContext.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="View\Add\AssemblyUnitSpecificationAddForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Add\EquipmentAddForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Add\EquipmentTypeAddForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Add\FurnitureAddForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Add\MaterialAddForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Add\MaterialSpecificationAddForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Add\OperationSpecificationAddForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Add\OrderAddForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Add\ProductAddForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Add\SpecificationFurnitureAddForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Add\SupplierAddForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Add\UserAddForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\DeputyDirector\DeputyDirectorForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\DeputyDirector\DeputyDirectorTable.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Director\DirectorForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Director\DirectorTable.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\EditFrom.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Manager\ManagerForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Manager\ManagerTable.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Master\MasterForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Master\MasterTable.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\RegistrationForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\User\UserForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\User\UserTable.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

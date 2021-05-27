@@ -1,0 +1,19 @@
+﻿<Window x:Class="FurnitureWPFApp.View.Add.AssemblyUnitSpecificationAddForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FurnitureWPFApp.View.Add"
+        mc:Ignorable="d"
+        Title="AssemblyUnitSpecificationAddForm" Height="450" Width="800">
+    <Grid>
+        <ComboBox x:Name="ProductCB" HorizontalAlignment="Left" Margin="305,100,0,0" VerticalAlignment="Top" Width="190" Height="35"/>
+        <TextBox x:Name="AssemblyUnitSpecificationTB" HorizontalAlignment="Left" Height="35" Margin="305,185,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="QuantityTB" HorizontalAlignment="Left" Height="35" Margin="305,270,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" PreviewTextInput="Quantity_PreviewTextInput"/>
+        <Label Content="Product" HorizontalAlignment="Left" Margin="220,109,0,0" VerticalAlignment="Top" Width="80" RenderTransformOrigin="4.173,0.973"/>
+        <Label Content="Assembly Unit Specification" HorizontalAlignment="Left" Margin="133,194,0,0" VerticalAlignment="Top" Width="167"/>
+        <Label Content="Quantity" HorizontalAlignment="Left" Margin="207,279,0,0" VerticalAlignment="Top" Width="80"/>
+        <Button x:Name="AddBT" Content="Ввод" HorizontalAlignment="Left" Margin="300,335,0,0" VerticalAlignment="Top" Width="200" Height="40" Click="AddBT_Click"/>
+        <Button x:Name="BackBT" Content="Назад" HorizontalAlignment="Left" Margin="53,355,0,0" VerticalAlignment="Top" Width="150" Height="30" Click="BackBT_Click"/>
+    </Grid>
+</Window>
